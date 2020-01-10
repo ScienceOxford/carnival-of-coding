@@ -1,6 +1,10 @@
 from microbit import *
 import music
 
+# Please tag us if used!
+# We'd love to see what you make:
+# @ScienceOxford
+
 display.show(Image.GIRAFFE)
 
 LF = pin13
