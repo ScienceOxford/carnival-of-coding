@@ -1,0 +1,4 @@
+to be added
+- stl files for boxes & placement blocks
+- svg files for edges & speaker horn
+- KiCAD project & gerber files for PCB
